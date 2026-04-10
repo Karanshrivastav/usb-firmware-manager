@@ -40,7 +40,13 @@ A cross-platform desktop application for scanning, managing, and upgrading firmw
 | 🎨 **Dark UI** | Industrial dark theme optimised for low-light embedded dev environments |
 
 ---
+## 📸 Screenshots
 
+<p align="center">
+  <img src="assets/app.png" alt="USB Firmware Manager UI" width="900"/>
+</p>
+
+---
 ## 🏛 Architecture
 
 The application is divided into three clean, decoupled layers:
