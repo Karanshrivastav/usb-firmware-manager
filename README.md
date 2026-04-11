@@ -409,3 +409,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 *Built with Python + PyQt5 · Designed for embedded and IoT firmware management workflows*
+![VC](https://visitor-badge.laobi.icu/badge?page_id=Karanshrivastav.usb-firmware-manager)
